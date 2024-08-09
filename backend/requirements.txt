@@ -1,0 +1,7 @@
+Flask
+BeautifulSoup4
+pandas
+openpyxl
+flask-cors
+psycopg2-binary
+flask-jwt-extended
